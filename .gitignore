@@ -1,0 +1,8 @@
+@"
+bmi_env/
+.venv/
+__pycache__/
+*.pyc
+.env
+My Tableau Repository/
+"@ | Set-Content "bmi-calculator\.gitignore"
